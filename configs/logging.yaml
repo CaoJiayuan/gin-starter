@@ -1,0 +1,5 @@
+default: default
+channels: 
+  database:
+    outputs:
+      - rotate:///db.log
